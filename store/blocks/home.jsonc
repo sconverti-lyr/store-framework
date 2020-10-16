@@ -5,8 +5,10 @@
       "flex-layout.row",
       "flex-layout.col",
       "info-card#button-right",
-      "info-card#button-left",
-      "shelf"
+      "info-card#button-left"
+      // Issue #8 - Shelf (shelf.jsonc)
+      // No se pudo mostrar este bloque ya que la request para mostrar los productos tira un error 500.
+      // "shelf"
     ]
   },
   "rich-text": {
