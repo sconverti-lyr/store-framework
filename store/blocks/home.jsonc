@@ -7,8 +7,8 @@
       "info-card#button-right",
       "info-card#button-left",
       "slider-layout#home",
-      "responsive-layout.desktop",
-      "responsive-layout.mobile"
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile"
       // Issue #8 - Shelf (shelf.jsonc)
       // No se pudo mostrar este bloque ya que la request para mostrar los productos tira un error 500.
       // "shelf"
