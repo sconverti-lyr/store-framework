@@ -13,7 +13,7 @@
   },
   "rich-text#about-title": {
     "props": {
-      "text": "# About FlatFlat sarasa probando"
+      "text": "# About FlatFlat"
     }
   },
   "rich-text#about-content": {
